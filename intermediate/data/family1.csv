@@ -1,0 +1,12 @@
+name,mother,father,trait
+Arthur,,,1
+Molly,,,0
+Jane,,,1
+Tiffany,,,0
+Charlie,Molly,Arthur,
+Fred,Molly,Arthur,
+Sarah,Jane,Charlie,
+Ritvik,Tiffany,Fred
+Wonka,Sarah,Ritvik
+
+
